@@ -25,7 +25,7 @@ Python 3.9.7
   
   *It can then be deployed on heroku by first adding the whole folder on github repository and then linking github account and that repository on heroku.
   
-🎯NOTE : 
+🎯NOTE 
   
   1)This project is just a demo on a specific dataset.
   
@@ -33,7 +33,9 @@ Python 3.9.7
   
   3)For other commands on anaconda prompt - can google it.
   
-  DEMO LINK:https://spamham26.herokuapp.com/
+⚙️DEMO LINK
+
+  https://spamham26.herokuapp.com/
   
 🖥️Contrbutor
 
