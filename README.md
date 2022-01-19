@@ -12,9 +12,17 @@ STEPS:
 
 5)Creating MultinomialNB Model.
 
-NOTE : Use spam.ipynb file.
+6)Creating Pipeline.
 
-       requirements.txt file is also available.
+7)Creating pickle file.
+
+NOTE : 1)Use spam.ipynb file.
+
+       2)requirements.txt file is available.
+       
+       3)spam.log file is available.
+       
+       4)config.py file is available
    
 📝 Description
 
