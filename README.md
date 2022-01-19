@@ -16,7 +16,9 @@ STEPS:
 
 7)Creating pickle file.
 
-NOTE : 1)Use spam.ipynb file.
+NOTE : 
+
+       1)Use spam.ipynb file.
 
        2)requirements.txt file is available.
        
