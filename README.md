@@ -13,7 +13,7 @@ Download Project Zip file from : https://github.com/Namrata2615/SPAM-HAM-CLASSIF
 
 Python 3.9.7
 
-📖 Instructions to run:
+📖 Instructions to run
 
   *Zip file can also be downloaded and run on anaconda prompt by creating an environment in it.
   
