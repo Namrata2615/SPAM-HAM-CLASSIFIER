@@ -1,4 +1,21 @@
 # SPAM-HAM-CLASSIFIER
+
+STEPS:
+
+1)Reading data in the form of csv file.
+
+2)Preprocessing the data.
+
+3)Splitting data into train and test split.
+
+4)Applying CountVectorizer.
+
+5)Creating MultinomialNB Model.
+
+NOTE : Use spam.ipynb file.
+
+       requirements.txt file is also available.
+   
 📝 Description
 
 Spam Classifier Model in Machine Learning Using NLP(Count Vectorizer) and Naive Bayes Classifier.It is a binary classification.
