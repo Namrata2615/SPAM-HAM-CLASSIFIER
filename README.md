@@ -35,7 +35,9 @@ Python 3.9.7
   
   DEMO LINK:https://spamham26.herokuapp.com/
   
-   ![image](https://user-images.githubusercontent.com/87931271/150095570-8afcbf2e-ebca-495a-b567-9c10bab4b455.png)
+![image](https://user-images.githubusercontent.com/87931271/150095570-8afcbf2e-ebca-495a-b567-9c10bab4b455.png)Contrbutor
+
+NAMRATA MISHRA
 
   
   
