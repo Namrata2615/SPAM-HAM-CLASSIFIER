@@ -1,19 +1,19 @@
 # SPAM-HAM-CLASSIFIER
-DESCRIPTION
+📝 Description
 
 Spam Classifier Model in Machine Learning Using NLP(Count Vectorizer) and Naive Bayes Classifier.It is a binary classification.
 
-DATASET
+⏳ Dataset
 
 Download the dataset from :https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
 
 Download Project Zip file from : https://github.com/Namrata2615/SPAM-HAM-CLASSIFIER
 
-Requirements :
+🛠️ Requirements
 
 Python 3.9.7
 
-Instructions to run:
+📖 Instructions to run:
 
   *Zip file can also be downloaded and run on anaconda prompt by creating an environment in it.
   
@@ -25,7 +25,7 @@ Instructions to run:
   
   *It can then be deployed on heroku by first adding the whole folder on github repository and then linking github account and that repository on heroku.
   
-  NOTE : 
+  🎯NOTE : 
   
   1)This project is just a demo on a specific dataset.
   
@@ -34,6 +34,9 @@ Instructions to run:
   3)For other commands on anaconda prompt - can google it.
   
   DEMO LINK:https://spamham26.herokuapp.com/
+  
+   ![image](https://user-images.githubusercontent.com/87931271/150095570-8afcbf2e-ebca-495a-b567-9c10bab4b455.png)
+
   
   
 
