@@ -66,6 +66,8 @@ Python 3.9.7
   
   https://www.youtube.com/watch?v=AAqOjXKUh0Q
   
+  https://www.linkedin.com/posts/namrata-mishra-0960a3222_this-is-a-first-in-ml-as-part-of-my-learning-activity-6889524009998921728-boej
+  
   🖥️Contrbutor
 
 NAMRATA MISHRA
